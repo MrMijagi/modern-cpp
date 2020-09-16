@@ -58,12 +58,10 @@ ___
 
 ## Kontrakt
 
-<ul>
-    <li class = "fragment fade-in"> 🎰 Reguła Vegas </li>
-    <li class = "fragment fade-in"> 🗣 Dyskusja, nie wykład </li>
-    <li class = "fragment fade-in"> ☕️ Dodatkowe przerwy na żądanie </li>
-    <li class = "fragment fade-in"> ⌚️ Punktualność </li>
-</ul>
+* <!-- .element: class="fragment fade-in" --> 🎰 Reguła Vegas
+* <!-- .element: class="fragment fade-in" --> 🗣 Dyskusja, nie wykład
+* <!-- .element: class="fragment fade-in" --> ☕️ Dodatkowe przerwy na żądanie
+* <!-- .element: class="fragment fade-in" --> ⌚️ Punktualność
 
 Uwaga:
 Zasada Vegas: co dzieje się w Vegas, to zostaje w Vegas.

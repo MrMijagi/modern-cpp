@@ -1,11 +1,11 @@
 <!-- .slide: data-background="#111111" -->
-# Structured bindings
+# Wiązanie struktur
 
 ___
 
-## Structured bindings
+## Wiązanie struktur
 
-Inicjalizacja rozkładająca struktury, która umożliwia pisanie:
+Przypisuje nowym nazwom obiekty lub elementy inicjalizatora:
 <!-- Ciężko mi znaleźć odpowiednik do de-structuring -->
 
 ```cpp
@@ -19,7 +19,7 @@ auto [ x, y, z ] = expr;
 ___
 <!-- .slide: style="font-size: 0.95em" -->
 
-## Structured bindings
+## Wiązanie struktur
 
 ```c++
 using Coordinate = std::pair<int, int>;
@@ -52,4 +52,4 @@ ___
 
 Stworzyć `std::map<shared_ptr<Shape>, double>` który zapamięta kształt i jego obwód.
 
-Użyj structured bindings, aby iterować po tej kolekcji i wyświetlić informacje o kształcie (wywołaj funkcję `print()`) oraz obwodzie.
+Użyj wiązań struktur, aby iterować po tej kolekcji i wyświetlić informacje o kształcie (wywołaj funkcję `print()`) oraz obwodzie.
