@@ -30,25 +30,49 @@
 
 ## [Moduł 2](module2/index.pl.html)
 
-### [Test wstępny](module2/pretest.pl.md)
+### [Test wstępny](module2/01_pretest.pl.md)
 
-### [Atrybuty](module2/modern_cpp_attributes.pl.md)
+### [Atrybuty](module2/02_attributes.pl.md)
 
-### [`constexpr`](module2/modern_cpp_constexpr.pl.md)
+### [`constexpr`](module2/03_constexpr.pl.md)
 
-### [`noexcept`](module2/modern_cpp_noexcept.pl.md)
+### [`noexcept`](module2/04_noexcept.pl.md)
 
-### [Wyrównanie struktur danych](module2/modern_cpp_dsa.pl.md)
+### [Wyrównanie struktur danych](module2/05_dsa.pl.md)
 
-### [Structured bindings](module2/modern_cpp_structure_bindings.pl.md)
+### [Structured bindings](module2/06_structure_bindings.pl.md)
 
-### [Wyrażenia lambda](module2/modern_cpp_lambda.pl.md)
+### [Wyrażenia lambda](module2/07_lambda.pl.md)
 
-### [Inne funkcjonalności](module2/modern_cpp_other.pl.md)
+### [Inne funkcjonalności](module2/08_other.pl.md)
 
-### [Podsumowanie](module2/modern_cpp_recap.pl.md)
+### [Podsumowanie](module2/09_recap.pl.md)
 
-### [Odpowiedzi do testu wstępnego](module2/pretest_answers.pl.md)
+### [Odpowiedzi do testu wstępnego](module2/10_pretest_answers.pl.md)
+
+## [Moduł 3](module3/index.pl.html)
+
+### [Test wstępny](module3/01_pretest.pl.md)
+
+### [r-value i l-value](module3/02_rvalues_lvalues.pl.md)
+
+### [Wykorzystanie semantyki przenoszenia](module3/03_usage.pl.md)
+
+### [Implementacja semantyki przenoszenia](module3/04_implementation.pl.md)
+
+### [Zasada 0, 3, 5](module3/05_rules.pl.md)
+
+### [`std::move`](module3/06_std_move.pl.md)
+
+### [Reference collapsing](module3/07_reference_collapsing.pl.md)
+
+### [`std::forward`](module3/08_std_forward.pl.md)
+
+### [Copy elision](module3/09_copy_elision.pl.md)
+
+### [Sprawdzenie wiedzy](module3/10_knowledge_check.pl.md)
+
+### [Podsumowanie](module3/11_recap.pl.md)
 
 ___
 
@@ -80,46 +104,46 @@ ___
 
 ## [Module 2](module2/index.en.html)
 
-### [Pre-test](module2/pretest.en.md)
+### [Pre-test](module2/01_pretest.en.md)
 
-### [Attributes](module2/modern_cpp_attributes.en.md)
+### [Attributes](module2/02_attributes.en.md)
 
-### [`constexpr`](module2/modern_cpp_constexpr.en.md)
+### [`constexpr`](module2/03_constexpr.en.md)
 
-### [`noexcept`](module2/modern_cpp_noexcept.en.md)
+### [`noexcept`](module2/04_noexcept.en.md)
 
-### [Data structure alignment](module2/modern_cpp_dsa.en.md)
+### [Data structure alignment](module2/05_dsa.en.md)
 
-### [Structured bindings](module2/modern_cpp_structure_bindings.en.md)
+### [Structured bindings](module2/06_structure_bindings.en.md)
 
-### [Lambda expressions](module2/modern_cpp_lambda.en.md)
+### [Lambda expressions](module2/07_lambda.en.md)
 
-### [Other features](module2/modern_cpp_other.en.md)
+### [Other features](module2/08_other.en.md)
 
-### [Recap](module2/modern_cpp_recap.en.md)
+### [Recap](module2/09_recap.en.md)
 
-### [Pre-test answers](module2/pretest_answers.en.md)
+### [Pre-test answers](module2/10_pretest_answers.en.md)
 
 ## [Module 3](module3/index.en.html)
 
-### [Pre-test](module3/move_semantics_pretest.en.md)
+### [Pre-test](module3/01_pretest.en.md)
 
-### [r-value and l-value](module3/move_semantics_rvalues_lvalues.en.md)
+### [r-value and l-value](module3/02_rvalues_lvalues.en.md)
 
-### [Usage and properties of move semantics](module3/move_semantics_usage.en.md)
+### [Usage and properties of move semantics](module3/03_usage.en.md)
 
-### [Implementation of move semantic](module3/move_semantics_implementation.en.md)
+### [Implementation of move semantic](module3/04_implementation.en.md)
 
-### [Rules of 0, 3, 5](module3/move_semantics_rules.en.md)
+### [Rules of 0, 3, 5](module3/05_rules.en.md)
 
-### [`std::move`](module3/move_semantics_std_move.en.md)
+### [`std::move`](module3/06_std_move.en.md)
 
-### [Reference collapsing](module3/move_semantics_reference_collapsing.en.md)
+### [Reference collapsing](module3/07_reference_collapsing.en.md)
 
-### [`std::forward`](module3/move_semantics_std_forward.en.md)
+### [`std::forward`](module3/08_std_forward.en.md)
 
-### [Copy elision](module3/move_semantics_copy_elision.en.md)
+### [Copy elision](module3/09_copy_elision.en.md)
 
-### [Knowledge check](module3/move_semantics_knowledge_check.en.md)
+### [Knowledge check](module3/10_knowledge_check.en.md)
 
-### [Recap](module3/move_semantics_recap.en.md)
+### [Recap](module3/11_recap.en.md)
